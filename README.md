@@ -5,6 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-SAMUEL-ZUOKUMOR/SAMUEL-ZUOKUMOR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hey I am SAMUEL-ZUOKUMOR, A Blockchain Dev. I am also intrested in AI and Machine learning. Always ready to attempt and solve problems
 --->
