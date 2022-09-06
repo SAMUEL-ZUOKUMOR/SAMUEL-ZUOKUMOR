@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAMUEL-ZUOKUMOR
 - 👀 I’m interested in Web3, AI and machine learning
-- 🌱 I’m always looking foward to learn more skills 
+- 🌱 I’m always ready to learn and adapt to new emerging technology 
 - 💞️ 
 - 📫 How to reach me E-mail: sammzzzuo@gmail.com
 
